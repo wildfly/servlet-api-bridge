@@ -10,8 +10,8 @@
         <version>24</version>
     </parent>
 
-    <groupId>io.undertow.bridge</groupId>
-    <artifactId>undertow-servlet-4.0-bridge</artifactId>
+    <groupId>org.wildfly.bridge</groupId>
+    <artifactId>servlet-api-bridge</artifactId>
     <version>1.0.0.Alpha1-SNAPSHOT</version>
 
 
