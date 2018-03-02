@@ -12,7 +12,7 @@
 
     <groupId>org.wildfly.bridge</groupId>
     <artifactId>servlet-api-bridge</artifactId>
-    <version>1.0.1.Final</version>
+    <version>1.0.2.Final-SNAPSHOT</version>
 
     <licenses>
         <license>
